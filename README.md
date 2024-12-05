@@ -1,2 +1,2 @@
 # trashy_streams
-Multivariat analysis of trash 'community' assembly in streams
+Multivariate analysis of trash 'community' assembly in streams
